@@ -23,4 +23,13 @@ This project helped me strengthen my understanding of data structures, algorithm
 
 🔗 GitHub: [keep your GitHub preview/link here]
 
-#Python #PythonProject #Algorithms #DataStructures #Tkinter #AlgorithmVisualization #GitHub #Programming #LearningByBuilding
+#Python #PythonProject #Algorithms #DataStructures #Tkinter #AlgorithmVisualization #GitHub #Programming #LearningByBuilding## 📸 Screenshots
+
+### Dashboard
+![AlgoVision Dashboard](dashboard.png)
+
+### Sorting in Progress
+![Sorting Visualization](sorting.png)
+
+### Sorting Completed
+![Completed Visualization](completed.png)
